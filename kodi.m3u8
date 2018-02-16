@@ -194,7 +194,7 @@ http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
 http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="VIASATNAT", CZ: Viasat Nature
 http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-id="", CZ: Spektrum
+#EXTINF:-1 tvg-id="SPEKTRUM", CZ: Spektrum
 http://213.81.153.240/live001/channel054_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="", SK: Dajto
 http://213.81.153.243/live003/channel004_p5.stream/DVR.m3u8
