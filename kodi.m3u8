@@ -1,242 +1,242 @@
 #EXTM3U
-#EXTINF:-1,HU: AMC
+#EXTINF:-1 tvg-id="AMC",HU: AMC
 http://91.82.54.45:4022/udp/239.1.1.125:5000
-#EXTINF:-1,HU: Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL",HU: Animal Planet
 http://91.82.54.45:4022/udp/239.1.1.55:5000
-#EXTINF:-1,HU: ATV
+#EXTINF:-1 tvg-id="ATV",HU: ATV
 http://91.82.54.45:4022/udp/239.1.1.45:5000
-#EXTINF:-1,HU: AXN
+#EXTINF:-1 tvg-id="AXN",HU: AXN
 http://91.82.54.45:4022/udp/239.1.1.72:5000
-#EXTINF:-1,HU: Boomerang
+#EXTINF:-1 tvg-id="BOOMERANG",HU: Boomerang
 http://91.82.54.45:4022/udp/239.1.1.29:5000
-#EXTINF:-1,HU: Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON",HU: Cartoon Network
 http://91.82.54.45:4022/udp/239.1.1.42:5000
-#EXTINF:-1,HU: Cinemax
+#EXTINF:-1 tvg-id="CINEMAX",HU: Cinemax
 http://91.82.54.45:4022/udp/239.1.1.24:5000
-#EXTINF:-1,HU: Cinemax 2
+#EXTINF:-1 tvg-id="CINEMAX2",HU: Cinemax 2
 http://91.82.54.45:4022/udp/239.1.1.25:5000
-#EXTINF:-1,HU: Comedy Central
+#EXTINF:-1 tvg-id="COMEDY",HU: Comedy Central
 http://91.82.54.45:4022/udp/239.1.1.16:5000
-#EXTINF:-1,HU: Comedy Central Family
+#EXTINF:-1 tvg-id="Comedy Central Family",HU: Comedy Central Family
 http://91.82.54.45:4022/udp/239.1.1.113:5000
-#EXTINF:-1,HU: Digi Animal World
+#EXTINF:-1 tvg-id="DIGIANIMALWORLD",HU: Digi Animal World
 http://91.82.54.45:4022/udp/239.1.1.91:5000
-#EXTINF:-1,HU: Digi Film
+#EXTINF:-1 tvg-id="DIGIFILM",HU: Digi Film
 http://91.82.54.45:4022/udp/239.1.1.94:5000
-#EXTINF:-1,HU: Digi Life
+#EXTINF:-1 tvg-id="DIGILIFE",HU: Digi Life
 http://91.82.54.45:4022/udp/239.1.1.92:5000
-#EXTINF:-1,HU: Digi Sport 1 HD
+#EXTINF:-1 tvg-id="DIGISPORT1",HU: Digi Sport 1 HD
 http://91.82.54.45:4022/udp/239.1.1.62:5000
-#EXTINF:-1,HU: Digi Sport 2
+#EXTINF:-1 tvg-id="DIGISPORT2",HU: Digi Sport 2
 http://91.82.54.45:4022/udp/239.1.1.90:5000
-#EXTINF:-1,HU: Digi Sport 2 HD
+#EXTINF:-1 tvg-id="DIGISPORT2",HU: Digi Sport 2 HD
 http://91.82.54.45:4022/udp/239.1.1.61:5000
-#EXTINF:-1,HU: Digi Sport 3
+#EXTINF:-1 tvg-id="DIGISPORT3",HU: Digi Sport 3
 http://91.82.54.45:4022/udp/239.1.1.100:5000
-#EXTINF:-1,HU: Digi World
+#EXTINF:-1 tvg-id="DIGIWORLD",HU: Digi World
 http://91.82.54.45:4022/udp/239.1.1.93:5000
-#EXTINF:-1,HU: Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERY",HU: Discovery Channel
 http://91.82.54.45:4022/udp/239.1.1.56:5000
-#EXTINF:-1,HU: Discovery Science
+#EXTINF:-1 tvg-id="DISCOVERYSCI",HU: Discovery Science
 http://91.82.54.45:4022/udp/239.1.1.59:5000
-#EXTINF:-1,HU: DOQ
+#EXTINF:-1 tvg-id="DOQ",HU: DOQ
 http://91.82.54.45:4022/udp/239.1.1.136:5000
-#EXTINF:-1,HU: Duck TV
+#EXTINF:-1 tvg-id="DUCKTV",HU: Duck TV
 http://91.82.54.45:4022/udp/239.1.1.23:5000
-#EXTINF:-1,HU: Duna TV
+#EXTINF:-1 tvg-id="DUNA",HU: Duna TV
 http://91.82.54.45:4022/udp/239.1.1.53:5000
-#EXTINF:-1,HU: Duna World
+#EXTINF:-1 tvg-id="DUNAWORLD",HU: Duna World
 http://91.82.54.45:4022/udp/239.1.1.108:5000
-#EXTINF:-1,HU: E
+#EXTINF:-1 tvg-id="ECHOTV",HU: Echo TV
 http://91.82.54.45:4022/udp/239.1.1.4:5000
-#EXTINF:-1,HU: Eurosport
+#EXTINF:-1 tvg-id="EUROSPORT",HU: Eurosport
 http://91.82.54.45:4022/udp/239.1.1.46:5000
-#EXTINF:-1,HU: Eurosport 2
+#EXTINF:-1 tvg-id="EUROSPORT2",HU: Eurosport 2
 http://91.82.54.45:4022/udp/239.1.1.47:5000
-#EXTINF:-1,HU: Extreme Sports
+#EXTINF:-1 tvg-id="EXTREMESP",HU: Extreme Sports
 http://91.82.54.45:4022/udp/239.1.1.119:5000
-#EXTINF:-1,HU: F&H
+#EXTINF:-1 tvg-id="FISHING_HUNTING",HU: Fishing & Hunting
 http://91.82.54.45:4022/udp/239.1.1.134:5000
-#EXTINF:-1,HU: Film Café
+#EXTINF:-1 tvg-id="FILMCAFE",HU: Film Café
 http://91.82.54.45:4022/udp/239.1.1.144:5000
-#EXTINF:-1,HU: Film Mania
+#EXTINF:-1 tvg-id="FILMMANIA",HU: Film Mania
 http://91.82.54.45:4022/udp/239.1.1.30:5000
-#EXTINF:-1,HU: Film+
+#EXTINF:-1 tvg-id="FILMPLUS",HU: Film+
 http://91.82.54.45:4022/udp/239.1.1.185:5000
-#EXTINF:-1,HU: Filmbox
+#EXTINF:-1 tvg-id="FILMBOX",HU: Filmbox
 http://91.82.54.45:4022/udp/239.1.1.145:5000
-#EXTINF:-1,HU: Filmbox
+#EXTINF:-1 tvg-id="FILMBOX",HU: Filmbox
 http://91.82.54.45:4022/udp/239.1.1.109:5000
-#EXTINF:-1,HU: Filmbox Family
+#EXTINF:-1 tvg-id="FILMBOXFAMILY",HU: Filmbox Family
 http://91.82.54.45:4022/udp/239.1.1.160:5000
-#EXTINF:-1,HU: Filmbox Plus
+#EXTINF:-1 tvg-id="FILMBOXPLUS",HU: Filmbox Plus
 http://91.82.54.45:4022/udp/239.1.1.159:5000
-#EXTINF:-1,HU: FILMBOX Premium
+#EXTINF:-1 tvg-id="FILMBOX_PREMIUM",HU: FILMBOX Premium
 http://91.82.54.45:4022/udp/239.1.1.127:5000
-#EXTINF:-1,HU: Fit HD
+#EXTINF:-1 tvg-id="FIT_HD",HU: Fit HD
 http://91.82.54.45:4022/udp/239.1.1.7:5000
-#EXTINF:-1,HU: FOX
+#EXTINF:-1 tvg-id="FOX",HU: FOX
 http://91.82.54.45:4022/udp/239.1.1.105:5000
-#EXTINF:-1,HU: Galaxy
+#EXTINF:-1 tvg-id="GALAXY",HU: Galaxy
 http://91.82.54.45:4022/udp/239.1.1.63:5000
-#EXTINF:-1,HU: Hatos
+#EXTINF:-1 tvg-id="HATOS_CSATORNA",HU: Hatos
 http://91.82.54.45:4022/udp/239.1.1.129:5000
-#EXTINF:-1,HU: HBO
+#EXTINF:-1 tvg-id="HBOHD",HU: HBO
 http://91.82.54.45:4022/udp/239.1.1.158:5000
-#EXTINF:-1,HU: HBO
+#EXTINF:-1 tvg-id="HBOHD",HU: HBO
 http://91.82.54.45:4022/udp/239.1.1.60:5000
-#EXTINF:-1,HU: HBO 2
+#EXTINF:-1 tvg-id="HBO2",HU: HBO 2
 http://91.82.54.45:4022/udp/239.1.1.26:5000
-#EXTINF:-1,HU: HBO3
+#EXTINF:-1 tvg-id="HBO3",HU: HBO3
 http://91.82.54.45:4022/udp/239.1.1.33:5000
-#EXTINF:-1,HU: Hír TV
+#EXTINF:-1 tvg-id="HIRTV",HU: Hír TV
 http://91.82.54.45:4022/udp/239.1.1.131:5000
-#EXTINF:-1,HU: JimJam
+#EXTINF:-1 tvg-id="JIMJAM",HU: JimJam
 http://91.82.54.45:4022/udp/239.1.1.118:5000
-#EXTINF:-1,HU: Life
+#EXTINF:-1 tvg-id="LIFE_TV",HU: LifeTv
 http://91.82.54.45:4022/udp/239.1.1.103:5000
-#EXTINF:-1,HU: M1
+#EXTINF:-1 tvg-id="M1",HU: M1
 http://91.82.54.45:4022/udp/239.1.1.76:5000
-#EXTINF:-1,HU: M2 HD
+#EXTINF:-1 tvg-id="M2",HU: M2 HD
 http://91.82.54.45:4022/udp/239.1.1.147:5000
-#EXTINF:-1,HU: M3
+#EXTINF:-1 tvg-id="M3",HU: M3
 http://91.82.54.45:4022/udp/239.1.1.85:5000
-#EXTINF:-1,HU: Megamax
+#EXTINF:-1 tvg-id="MEGAMAX",HU: Megamax
 http://91.82.54.45:4022/udp/239.1.1.123:5000
-#EXTINF:-1,HU: Minimax
+#EXTINF:-1 tvg-id="MINIMAX",HU: Minimax
 http://91.82.54.45:4022/udp/239.1.1.32:5000
-#EXTINF:-1,HU: Mozi+
+#EXTINF:-1 tvg-id="MOZI_PLUSZ",HU: Mozi+
 http://91.82.54.45:4022/udp/239.1.1.126:5000
-#EXTINF:-1,HU: Music Channel
+#EXTINF:-1 tvg-id="MUSICCHANNEL",HU: Music Channel
 http://91.82.54.45:4022/udp/239.1.1.140:5000
-#EXTINF:-1,HU: Muzsika TV
+#EXTINF:-1 tvg-id="MUZSIKATV",HU: Muzsika TV
 http://91.82.54.45:4022/udp/239.1.1.121:5000
-#EXTINF:-1,HU: Nat Geo Wild
+#EXTINF:-1 tvg-id="NATGEOWILD",HU: Nat Geo Wild
 http://91.82.54.45:4022/udp/239.1.1.69:5000
-#EXTINF:-1,HU: National Geographic
+#EXTINF:-1 tvg-id="NATGEO",HU: National Geographic
 http://91.82.54.45:4022/udp/239.1.1.87:5000
-#EXTINF:-1,HU: Nick Junior
+#EXTINF:-1 tvg-id="NICKJR",HU: Nick Junior
 http://91.82.54.45:4022/udp/239.1.1.34:5000
-#EXTINF:-1,HU: Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON",HU: Nickelodeon
 http://91.82.54.45:4022/udp/239.1.1.49:5000
-#EXTINF:-1,HU: Ozone
+#EXTINF:-1 tvg-id="OZONE_TV",HU: Ozone
 http://91.82.54.45:4022/udp/239.1.1.102:5000
-#EXTINF:-1,HU: Paprika TV
+#EXTINF:-1 tvg-id="PAPRIKA",HU: Paprika TV
 http://91.82.54.45:4022/udp/239.1.1.8:5000
-#EXTINF:-1,HU: Paramount Channel
+#EXTINF:-1 tvg-id="PARAMOUNT",HU: Paramount Channel
 http://91.82.54.45:4022/udp/239.1.1.73:5000
-#EXTINF:-1,HU: Pax
+#EXTINF:-1 tvg-id="PAX",HU: Pax
 http://91.82.54.45:4022/udp/239.1.1.117:5000
-#EXTINF:-1,HU: PRIME
+#EXTINF:-1 tvg-id="PRIME",HU: PRIME
 http://91.82.54.45:4022/udp/239.1.1.39:5000
-#EXTINF:-1,HU: RTL Gold
+#EXTINF:-1 tvg-id="RTL Gold",HU: RTL Gold
 http://91.82.54.45:4022/udp/239.1.1.135:5000
-#EXTINF:-1,HU: RTL Klub
+#EXTINF:-1 tvg-id="RTL",HU: RTL Klub
 http://91.82.54.45:4022/udp/239.1.1.77:5000
-#EXTINF:-1,HU: RTL+
+#EXTINF:-1 tvg-id="RTL_PLUSZ",HU: RTL+
 http://91.82.54.45:4022/udp/239.1.1.137:5000
-#EXTINF:-1,HU: RTL2
+#EXTINF:-1 tvg-id="RTL2",HU: RTL2
 http://91.82.54.45:4022/udp/239.1.1.138:5000
-#EXTINF:-1,HU: Sláger TV
+#EXTINF:-1 tvg-id="",HU: Sláger TV
 http://91.82.54.45:4022/udp/239.1.1.96:5000
-#EXTINF:-1,HU: Sony Max
+#EXTINF:-1 tvg-id="Sony Max",HU: Sony Max
 http://91.82.54.45:4022/udp/239.1.1.75:5000
-#EXTINF:-1,HU: Sony Movie Channel
+#EXTINF:-1 tvg-id="Sony Movie Channel",HU: Sony Movie Channel
 http://91.82.54.45:4022/udp/239.1.1.74:5000
-#EXTINF:-1,HU: Sorozat+
+#EXTINF:-1 tvg-id="SOROZAT",HU: Sorozat+
 http://91.82.54.45:4022/udp/239.1.1.139:5000
-#EXTINF:-1,HU: Spektrum
+#EXTINF:-1 tvg-id="SPEKTRUM",HU: Spektrum
 http://91.82.54.45:4022/udp/239.1.1.28:5000
-#EXTINF:-1,HU: Sport1
+#EXTINF:-1 tvg-id="SPORT1",HU: Sport1
 http://91.82.54.45:4022/udp/239.1.1.12:5000
-#EXTINF:-1,HU: Sport2
+#EXTINF:-1 tvg-id="SPORT2",HU: Sport2
 http://91.82.54.45:4022/udp/239.1.1.13:5000
-#EXTINF:-1,HU: Story4
+#EXTINF:-1 tvg-id="STORY4",HU: Story4
 http://91.82.54.45:4022/udp/239.1.1.128:5000
-#EXTINF:-1,HU: Story5
+#EXTINF:-1 tvg-id="STORY5",HU: Story5
 http://91.82.54.45:4022/udp/239.1.1.104:5000
-#EXTINF:-1,HU: Super TV2
+#EXTINF:-1 tvg-id="SUPERTV2",HU: Super TV2
 http://91.82.54.45:4022/udp/239.1.1.114:5000
-#EXTINF:-1,HU: TLC
+#EXTINF:-1 tvg-id="TLC",HU: TLC
 http://91.82.54.45:4022/udp/239.1.1.124:5000
-#EXTINF:-1,HU: Travel Channel
+#EXTINF:-1 tvg-id="TRAVEL",HU: Travel Channel
 http://91.82.54.45:4022/udp/239.1.1.143:5000
-#EXTINF:-1,HU: TV2
+#EXTINF:-1 tvg-id="TV2",HU: TV2
 http://91.82.54.45:4022/udp/239.1.1.78:5000
-#EXTINF:-1,HU: Viasat3
+#EXTINF:-1 tvg-id="VIASAT3",HU: Viasat3
 http://91.82.54.45:4022/udp/239.1.1.106:5000
-#EXTINF:-1,HU: Viasat6
+#EXTINF:-1 tvg-id="VIASAT6",HU: Viasat6
 http://91.82.54.45:4022/udp/239.1.1.107:5000
 
-#EXTINF:-1,HU: Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON",HU: Nickelodeon
 http://65.254.55.10:4000/live/195/195.m3u8
-#EXTINF:-1,HU: Digi Sport 1
+#EXTINF:-1 tvg-id="DIGISPORT1",HU: Digi Sport 1
 http://bit.do/iprayram-DIGI-S1
-#EXTINF:-1,HU: ATV
+#EXTINF:-1 tvg-id="ATV",HU: ATV
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8?_=30254661
-#EXTINF:-1,HU: RTL Klub
+#EXTINF:-1 tvg-id="RTL",HU: RTL Klub
 https://cdn.y5.hu:443/stream/stream_rtlklub/hls/stream.m3u8
-#EXTINF:-1,HU: TV2
+#EXTINF:-1 tvg-id="TV2",HU: TV2
 http://bit.do/iprayram-TV2
-#EXTINF:-1, SK: Markiza
+#EXTINF:-1 tvg-id="", SK: Markiza
 http://213.81.153.243/live003/channel003_p5.stream/DVR.m3u8
-#EXTINF:-1, SK: Dajto
+#EXTINF:-1 tvg-id="", SK: Dajto
 http://cdn.srv.markiza.sk/live/dajtotn-w.smil/chunklist_b1120000.m3u8
-#EXTINF:-1, SK: JOJ FAMILY
+#EXTINF:-1 tvg-id="", SK: JOJ FAMILY
 http://nn2.joj.sk/hls/family-540.m3u8
-#EXTINF:-1, SK: RIK
+#EXTINF:-1 tvg-id="", SK: RIK
 http://nn2.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1, CZ: NOVA Sport1 HD
+#EXTINF:-1 tvg-id="", CZ: NOVA Sport1 HD
 http://78.45.161.161:7522/upnp/channelstream/2.ts
-#EXTINF:-1, CZ: Viasat Explore
+#EXTINF:-1 tvg-id="VIASATEXP", CZ: Viasat Explore
 http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
-#EXTINF:-1, CZ: Viasat History
+#EXTINF:-1 tvg-id="VIASATHIST", CZ: Viasat History
 http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
-#EXTINF:-1, CZ: Viasat Nature
+#EXTINF:-1 tvg-id="VIASATNAT", CZ: Viasat Nature
 http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1, CZ: Spektrum
+#EXTINF:-1 tvg-id="", CZ: Spektrum
 http://213.81.153.240/live001/channel054_p5.stream/DVR.m3u8
-#EXTINF:-1, SK: Dajto
+#EXTINF:-1 tvg-id="", SK: Dajto
 http://213.81.153.243/live003/channel004_p5.stream/DVR.m3u8
-#EXTINF:-1, SK: Doma
+#EXTINF:-1 tvg-id="", SK: Doma
 http://213.81.153.243/live003/channel011_p5.stream/DVR.m3u8
-#EXTINF:-1,CZ: Megamax
+#EXTINF:-1 tvg-id="MEGAMAX",CZ: Megamax
 http://213.81.153.240/live001/channel049_p5.stream/DVR.m3u8
-#EXTINF:-1,SK: JOJ
+#EXTINF:-1 tvg-id="",SK: JOJ
 http://http-stream.joj.sk/joj/joj/index-hq.m3u8 
-#EXTINF:-1, SK: JOJ Plus
+#EXTINF:-1 tvg-id="", SK: JOJ Plus
 http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
-#EXTINF:-1,SK: JOJ PLUS HD
+#EXTINF:-1 tvg-id="",SK: JOJ PLUS HD
 http://http-stream.joj.sk:80/joj/jojplus/index-hq.m3u8
-#EXTINF:-1, SK: WAU
+#EXTINF:-1 tvg-id="", SK: WAU
 http://http-stream.joj.sk/joj/wau/index-hq.m3u8
-#EXTINF:-1,CZ: Spektrum HOME
+#EXTINF:-1 tvg-id="SPEKTRUMHOME",CZ: Spektrum HOME
 http://199.195.199.196:5000/live/312/312.m3u8
-#EXTINF:-1,SK: STV 1
+#EXTINF:-1 tvg-id="",SK: STV 1
 http://199.195.199.196:5000/live/365/365.m3u8
-#EXTINF:-1,SK: STV 2
+#EXTINF:-1 tvg-id="",SK: STV 2
 http://199.195.199.196:5000/live/366/366.m3u8
-#EXTINF:-1,CZ: RebeL
+#EXTINF:-1 tvg-id="",CZ: RebeL
 http://199.195.199.196:5000/live/410/410.m3u8
-#EXTINF:-1,CZ: REtrO
+#EXTINF:-1 tvg-id="",CZ: REtrO
 http://199.195.199.196:5000/live/412/412.m3u8
-#EXTINF:-1,CZ: Ceskoslovensko HD
+#EXTINF:-1 tvg-id="",CZ: Ceskoslovensko HD
 http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1,CZ: Eurosport
+#EXTINF:-1 tvg-id="EUROSPORT",CZ: Eurosport
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1, Rádió 1
+#EXTINF:-1 tvg-id="", Rádió 1
 http://stream4.radio1.hu:8000/mid.mp3
-#EXTINF:-1, Class FM rádió
+#EXTINF:-1 tvg-id="", Class FM rádió
 http://icast.connectmedia.hu/4784/live.mp3
-#EXTINF:-1, Music FM rádió
+#EXTINF:-1 tvg-id="", Music FM rádió
 http://stream.musicfm.hu:8000/musicfm.mp3
-#EXTINF:-1, Sláger FM rádió
+#EXTINF:-1 tvg-id="", Sláger FM rádió
 http://92.61.114.159:7812/slagerfm256.mp3
 #EXTINF:-1 tvg-id="MR2", Petõfi rádió
 http://mr-stream.mediaconnect.hu/4738/mr2.mp3
-#EXTINF:-1, Gyõr Plusz rádió
+#EXTINF:-1 tvg-id="", Gyõr Plusz rádió
 http://hosting.42netmedia.com:9620/;
-#EXTINF:-1, Kék Duna rádió
+#EXTINF:-1 tvg-id="", Kék Duna rádió
 http://gyor2.kekduna.hu:8006/;stream
 #EXTINF:-1 tvg-id="MR1",Kossuth rádió
 http://mr-stream.mediaconnect.hu/4736/mr1.mp3
