@@ -183,7 +183,9 @@ http://bit.do/iprayram-TV2
 #EXTINF:-1 tvg-id="", SK: Markiza
 http://213.81.153.243/live003/channel003_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="", SK: Dajto
-http://cdn.srv.markiza.sk/live/dajtotn-w.smil/chunklist_b1120000.m3u8
+http://213.81.153.243/live003/channel004_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-id="", SK: Doma
+http://213.81.153.243/live003/channel011_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="", SK: JOJ FAMILY
 http://nn2.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="", SK: RIK
@@ -198,10 +200,6 @@ http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
 http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="SPEKTRUM", CZ: Spektrum
 http://213.81.153.240/live001/channel054_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-id="", SK: Dajto
-http://213.81.153.243/live003/channel004_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-id="", SK: Doma
-http://213.81.153.243/live003/channel011_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="MEGAMAX",CZ: Megamax
 http://213.81.153.240/live001/channel049_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="",SK: JOJ
