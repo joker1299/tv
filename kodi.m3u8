@@ -1,26 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NICKELODEON",HU: Nickelodeon
 http://65.254.55.10:4000/live/195/195.m3u8
-#EXTINF:-1 tvg-id="DIGISPORT1",HU: Digi Sport 1
-http://bit.do/iprayram-DIGI-S1
 #EXTINF:-1 tvg-id="ATV",HU: ATV
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8?_=30254661
 #EXTINF:-1 tvg-id="RTL",HU: RTL Klub
 https://cdn.y5.hu:443/stream/stream_rtlklub/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TV2",HU: TV2
-http://bit.do/iprayram-TV2
 #EXTINF:-1 tvg-id="", SK: Markiza
 http://213.81.153.243/live003/channel003_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="", SK: Dajto
 http://213.81.153.243/live003/channel004_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="", SK: Doma
 http://213.81.153.243/live003/channel011_p5.stream/DVR.m3u8
-#EXTINF:-1 tvg-id="", SK: JOJ FAMILY
-http://nn2.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-id="", SK: RIK
-http://nn2.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1 tvg-id="", CZ: NOVA Sport1 HD
-http://78.45.161.161:7522/upnp/channelstream/2.ts
 #EXTINF:-1 tvg-id="VIASATEXP", CZ: Viasat Explore
 http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="VIASATHIST", CZ: Viasat History
@@ -31,12 +21,14 @@ http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
 http://213.81.153.240/live001/channel054_p5.stream/DVR.m3u8
 #EXTINF:-1 tvg-id="MEGAMAX",CZ: Megamax
 http://213.81.153.240/live001/channel049_p5.stream/DVR.m3u8
+#EXTINF:-1 tvg-id="", SK: JOJ FAMILY
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="", SK: RIK
+http://nn2.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 tvg-id="",SK: JOJ
 http://http-stream.joj.sk/joj/joj/index-hq.m3u8 
 #EXTINF:-1 tvg-id="", SK: JOJ Plus
 http://http-stream.joj.sk/joj/jojplus/index-hq.m3u8
-#EXTINF:-1 tvg-id="",SK: JOJ PLUS HD
-http://http-stream.joj.sk:80/joj/jojplus/index-hq.m3u8
 #EXTINF:-1 tvg-id="", SK: WAU
 http://http-stream.joj.sk/joj/wau/index-hq.m3u8
 #EXTINF:-1 tvg-id="",CZ: Ceskoslovensko HD
