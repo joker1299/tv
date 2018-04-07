@@ -3,6 +3,20 @@
 http://65.254.55.10:4000/live/195/195.m3u8
 #EXTINF:-1 tvg-id="ATV",HU: ATV
 http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8?_=30254661
+#EXTINF:-1 tvg-id="",HU: Sport 2 CZE/HU
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4712.ts
+#EXTINF:-1 tvg-id="SPORT2",HU: Sport 2
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4711.ts
+#EXTINF:-1 tvg-id="",HU: Sport 1 CZE/HU
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4714.ts
+#EXTINF:-1 tvg-id="SPORT1",HU: Sport 1
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4713.ts
+#EXTINF:-1 tvg-id="DIGISPORT3",HU: DIGI SPORT 3
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4707.ts
+#EXTINF:-1 tvg-id="DIGISPORT2",HU: DIGI SPORT 2
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4708.ts
+#EXTINF:-1 tvg-id="DIGISPORT1",HU: DIGI SPORT 1
+http://193.200.164.171:6969/live/IPTVdroid/OKIEdokie123/4709.ts
 #EXTINF:-1 tvg-id="RTL",HU: RTL Klub
 https://cdn.y5.hu:443/stream/stream_rtlklub/hls/stream.m3u8
 #EXTINF:-1 tvg-id="", SK: Markiza
@@ -55,3 +69,5 @@ http://mr-stream.mediaconnect.hu/4736/mr1.mp3
 http://mr-stream.mediaconnect.hu/4741/mr3.mp3
 #EXTINF:-1 tvg-id="DANKO_RADIO", Dankó rádió
 http://mr-stream.mediaconnect.hu/4748/mr7.mp3
+#EXTINF:-1, F
+https://a114.cdn.tvcatchup.com/pshift_sess_8cbda0a6568b2/channel4_hi-360642.ts?streamKey=8ed147b7bb16c5cc20e1ce10bd95d506-02b611e72dfdb669da350a2ed92394ff
