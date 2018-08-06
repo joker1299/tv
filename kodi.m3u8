@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",HU: AMC
+http://81.182.172.79:9003/play/amc
+#EXTINF:-1 tvg-id="",HU: Cartoon Network
+http://81.182.172.79:9003/play/cartoon
+#EXTINF:-1 tvg-id="",HU: Da Vinci Learning
+http://81.182.172.79:9003/play/davinci
+#EXTINF:-1 tvg-id="",HU: DIGI Film
+http://81.182.172.79:9001/play/digifilm
+#EXTINF:-1 tvg-id="",HU: DIGI Sport 1
+http://81.182.172.79:9001/play/digisport1
+#EXTINF:-1 tvg-id="",HU: DIGI Sport 2
+http://81.182.172.79:9001/play/digisport2
+#EXTINF:-1 tvg-id="",HU: DIGI Sport 3
+http://81.182.172.79:9001/play/digisport3
+#EXTINF:-1 tvg-id="",HU: DIGI World
+http://81.182.172.79:9001/play/digiworld
+#EXTINF:-1 tvg-id="",HU: Discovery Investigation
+http://81.182.172.79:9003/play/investdisc
+#EXTINF:-1 tvg-id="",HU: HBO
+http://81.182.172.79:9001/play/hbo
+#EXTINF:-1 tvg-id="",HU: History
+http://81.182.172.79:9003/play/history
+#EXTINF:-1 tvg-id="",HU: Megamax
+http://81.182.172.79:9003/play/megamax
+#EXTINF:-1 tvg-id="",HU: National Geographic
+http://81.182.172.79:9003/play/natgeo
+#EXTINF:-1 tvg-id="",HU: Paprika TV
+http://81.182.172.79:9001/play/tvpaprika
+#EXTINF:-1 tvg-id="",HU: Romance TV
+http://81.182.172.79:9003/play/romancetv
+#EXTINF:-1 tvg-id="",HU: Sláger TV
+http://81.182.172.79:9003/play/slagertv
+#EXTINF:-1 tvg-id="",HU: Spektrum
+http://81.182.172.79:9001/play/spektrum
+#EXTINF:-1 tvg-id="",HU: Sport1
+http://81.182.172.79:9001/play/sport1
+#EXTINF:-1 tvg-id="",HU: Story4
+http://81.182.172.79:9003/play/story4
+#EXTINF:-1 tvg-id="",HU: Travel channel
+http://81.182.172.79:9003/play/travel
+#EXTINF:-1 tvg-id="",HU: Viasat History
+http://81.182.172.79:9003/play/viasath
+
 #EXTINF:-1 tvg-id="NICKELODEON",HU: Nickelodeon
 http://65.254.55.10:4000/live/195/195.m3u8
 #EXTINF:-1 tvg-id="ATV",HU: ATV
