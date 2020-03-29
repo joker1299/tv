@@ -5,6 +5,8 @@ http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8?_=
 http://nn2.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="", SK: RIK
 http://nn2.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1 tvg-id="", Retro Rádió
+http://stream3.retroradio.hu/mid.mp3
 #EXTINF:-1 tvg-id="", Rádió 1
 http://stream4.radio1.hu:8000/mid.mp3
 #EXTINF:-1 tvg-id="", Sláger FM rádió
