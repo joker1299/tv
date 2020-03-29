@@ -5,11 +5,9 @@ http://193.68.62.125:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8?_=
 http://nn2.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="", SK: RIK
 http://nn2.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1 tvg-id="", Retro Rádió
-http://stream3.retroradio.hu/mid.mp3
 #EXTINF:-1 tvg-id="", Rádió 1
 http://stream4.radio1.hu:8000/mid.mp3
-#EXTINF:-1 tvg-id="", Sláger FM rádió
+#EXTINF:-1 tvg-id="", Sláger FM
 http://92.61.114.159:7812/slagerfm256.mp3
 #EXTINF:-1 tvg-id="MR2", Petõfi rádió
 http://mr-stream.mediaconnect.hu/4738/mr2.mp3
@@ -19,7 +17,7 @@ http://hosting.42netmedia.com:9620/;
 http://gyor2.kekduna.hu:8006/;stream
 #EXTINF:-1 tvg-id="MR1",Kossuth rádió
 http://mr-stream.mediaconnect.hu/4736/mr1.mp3
-#EXTINF:-1 tvg-id="MR3", Bartók rádió
+#EXTINF:-1 tvg-id="MR3", BartÃ³k rádió
 http://mr-stream.mediaconnect.hu/4741/mr3.mp3
 #EXTINF:-1 tvg-id="DANKO_RADIO", Dankó rádió
 http://mr-stream.mediaconnect.hu/4748/mr7.mp3
