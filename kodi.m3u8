@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", 360TuneBox (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6074.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", AMC (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6094.ts
 #EXTINF:-1 tvg-id="AMC.cz" tvg-name="AMC.cz" tvg-logo="" group-title="CZ/SK", AMC HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6240.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ARCADIA (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25400.ts
 #EXTINF:-1 tvg-id="AXN.cz" tvg-name="AXN.cz" tvg-logo="" group-title="CZ/SK", AXN (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6085.ts
 #EXTINF:-1 tvg-id="AXNScifi.cz" tvg-name="AXNScifi.cz" tvg-logo="" group-title="CZ/SK", AXN Black (CZE)
@@ -45,8 +41,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6243.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6244.ts
 #EXTINF:-1 tvg-id="Boomerang.cz" tvg-name="Boomerang.cz" tvg-logo="" group-title="CZ/SK", Boomerang (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6143.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/6690501237.png" group-title="CZ/SK", Boomerang HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25987.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CANAL+ Action (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7822.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CANAL+ Sport (CZE)
@@ -55,10 +49,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/7828.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7689.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CARTOONITO (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/14687.ts
-#EXTINF:-1 tvg-id="ZoneReality.cz" tvg-name="ZoneReality.cz" tvg-logo="" group-title="CZ/SK", CBS Reality (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6246.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CETV HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6558.ts
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNNPrimaNews.cz" tvg-logo="" group-title="CZ/SK", CNN Prima News (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6047.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CNN Prima News HD (CZE)
@@ -67,8 +57,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6247.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6090.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CS Film HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6248.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CS Film/CS Horror (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7827.ts
 #EXTINF:-1 tvg-id="CSHistory.cz" tvg-name="CSHistory.cz" tvg-logo="" group-title="CZ/SK", CS History (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6093.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CS History HD (CZE)
@@ -77,8 +65,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6249.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6092.ts
 #EXTINF:-1 tvg-id="CSMystery.cz" tvg-name="CSMystery.cz" tvg-logo="" group-title="CZ/SK", CS Mystery (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6091.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CS Mystery HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6250.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CSRTV (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25390.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CT 1 (CZE)
@@ -103,8 +89,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6034.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6253.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CT 3 (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6041.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CT 3 HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6254.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CT :D/art (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6042.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", CT :D/art HD (CZE)
@@ -133,14 +117,10 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6111.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25413.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", DISNEY JR (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/27756.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/2859031108.png" group-title="CZ/SK", DUCK HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25990.ts
 #EXTINF:-1 tvg-id="Dajto.sk" tvg-name="Dajto.sk" tvg-logo="" group-title="CZ/SK", Dajto (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8338.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Dajto (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6559.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://www.pcdays.cz/wp-content/uploads/2015/09/sport2_cz.png" group-title="CZ/SK", Dajto HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25988.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Dajto HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6586.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Deluxe Music (CZE)
@@ -149,18 +129,12 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6136.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6107.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz" tvg-name="DiscoveryChannel.cz" tvg-logo="" group-title="CZ/SK", Discovery Channel (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8339.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/4320877840.png" group-title="CZ/SK", Discovery Channel HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25989.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Discovery HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6259.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.cz" tvg-name="DiscoveryScience.cz" tvg-logo="" group-title="CZ/SK", Discovery Science (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6108.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Discovery Science HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6260.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Discovery Turbo Xtra (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6109.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Discovery Turbo Xtra HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6261.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Disney (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6149.ts
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="DisneyChannel.cz" tvg-logo="" group-title="CZ/SK", Disney Channel (CZE)
@@ -169,8 +143,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/8340.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6150.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", DocuBox HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6075.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Dolný Kubín (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7682.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Doma (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6560.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Doma HD (CZE)
@@ -203,12 +175,8 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/8345.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6114.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Eurosport 2 HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6262.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Eurosport HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6264.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", FASHION (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25401.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", FASHION_TV_HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6588.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", FOLKLORIKA (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/24712.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", FOOD NETWORK (CZE)
@@ -221,8 +189,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6077.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6079.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", FightBox (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6078.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/4fd776ddc30b888b8651d2c1573d98d2.png" group-title="CZ/SK", Fightbox HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25992.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Film Europe (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6088.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Film Europe HD (CZE)
@@ -245,16 +211,8 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6072.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6265.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Filmbox Arthouse (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6080.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Filmbox Basic (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7826.ts
 #EXTINF:-1 tvg-id="FilmboxExtraHD.cz" tvg-name="FilmboxExtraHD.cz" tvg-logo="" group-title="CZ/SK", Filmbox Extra HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6071.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/3c5d9947591827a71b84b52c075d5739.png" group-title="CZ/SK", Filmbox Family HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25993.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Filmbox HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6266.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/7414494196.png" group-title="CZ/SK", Filmbox PLUS HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25994.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Filmbox Plus (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8347.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Filmbox Premium HD (CZE)
@@ -291,8 +249,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6272.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25412.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", HGTV HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6273.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", HNTV 1 (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6589.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", HaHa (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6173.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", History (CZE)
@@ -303,16 +259,8 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6274.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/27763.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Hobby (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6170.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Hobby HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6275.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ID (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6110.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ID HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6276.ts
-#EXTINF:-1 tvg-id="IDXtra.cz" tvg-name="IDXtra.cz" tvg-logo="" group-title="CZ/SK", ID Xtra (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6277.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/8829788608.png" group-title="CZ/SK", Iconcerts HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25995.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6566.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ 24 (SLK)
@@ -323,24 +271,16 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/25404.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6062.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Cinema 1 HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8350.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Cinema+1 HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6561.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Family (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6063.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Family HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8351.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Family HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6562.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8354.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6563.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/5897853844.png" group-title="CZ/SK", JOJ PLUS HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25997.ts
 #EXTINF:-1 tvg-id="JOJPlus.sk" tvg-name="JOJPlus.sk" tvg-logo="" group-title="CZ/SK", JOJ Plus (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8352.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Plus (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6564.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ Plus HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6565.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", JOJ SVET (SLK)
@@ -363,16 +303,10 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6570.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6059.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Jednotka_HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7686.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Jim Jam (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6279.ts
 #EXTINF:-1 tvg-id="JimJam.cz" tvg-name="JimJam.cz" tvg-logo="" group-title="CZ/SK", JimJam (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6151.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/1658560333.png" group-title="CZ/SK", Jimjam HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25996.ts
 #EXTINF:-1 tvg-id="Jojko.sk" tvg-name="Jojko.sk" tvg-logo="" group-title="CZ/SK", Jojko (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8353.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/7181653073.png" group-title="CZ/SK", Jojko HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25998.ts
 #EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="KinoBarrandov.cz" tvg-logo="" group-title="CZ/SK", Kino Barrandov (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6084.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Kino Barrandov HD (CZE)
@@ -391,8 +325,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6166.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8355.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", LocAll (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7680.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/9624429267.png" group-title="CZ/SK", Locall HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25999.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Lounge (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6169.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Love Nature HD (CZE)
@@ -401,14 +333,10 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6282.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7831.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", MARKIZA PLUS (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25406.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", MARKIZA+1 HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6572.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", MTV (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6133.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", MTV 00s (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6135.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/6982243564.png" group-title="CZ/SK", MTV HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26002.ts
 #EXTINF:-1 tvg-id="MTVHits.cz" tvg-name="MTVHits.cz" tvg-logo="" group-title="CZ/SK", MTV Hits (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6134.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Markiza (SLK)
@@ -421,8 +349,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/7688.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8357.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Markiza International (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6064.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/6695610672.png" group-title="CZ/SK", Markiza International HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26000.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Markiza Klasik HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6575.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Markiza Krimi HD (SLK)
@@ -435,20 +361,10 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6131.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6152.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Minimax (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25395.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/5174019361.png" group-title="CZ/SK", Minimax HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26001.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Mnam (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7851.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Mnam HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6283.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Mnau HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6284.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Moldava (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25392.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Mňau (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7832.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/8316c0db1b30f1af5d6614ad32a6ebaf.png" group-title="CZ/SK", NOVA Sports 3 HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25985.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nat Geo (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7823.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nat Geo HD (CZE)
@@ -459,8 +375,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6098.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6285.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nautical ChannelHD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8360.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/2840376147.png" group-title="CZ/SK", Nautical ChannelfHD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26003.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nick JR (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6145.ts
 #EXTINF:-1 tvg-id="NickJr.cz" tvg-name="NickJr.cz" tvg-logo="" group-title="CZ/SK", Nick Jr. (CZE)
@@ -495,8 +409,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6289.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6290.ts
 #EXTINF:-1 tvg-id="NovaInternational.cz" tvg-name="NovaInternational.cz" tvg-logo="" group-title="CZ/SK", Nova International (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6291.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nova International HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6292.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nova Lady (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6056.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nova Lady HD (CZE)
@@ -513,8 +425,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6295.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6296.ts
 #EXTINF:-1 tvg-id="NovaSport4.cz" tvg-name="NovaSport4.cz" tvg-logo="" group-title="CZ/SK", Nova Sport 4 HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6297.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Nove Zamky (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7672.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", O2 Fotbal HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8363.ts
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko.cz" tvg-logo="" group-title="CZ/SK", Ocko (CZE)
@@ -523,8 +433,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6298.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6299.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Ocko Expres HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6300.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/12e82ff7ca62c7a9e6f2c838a0403aa5.png" group-title="CZ/SK", Ocko Expres HD (SKYLINK) (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26005.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Ocko Gold (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6301.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Ocko HD (CZE)
@@ -555,8 +463,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6157.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6175.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Praha (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8365.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Premier Sport 2 HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6590.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Prima (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6036.ts
 #EXTINF:-1 tvg-id="PrimaCool.cz" tvg-name="PrimaCool.cz" tvg-logo="" group-title="CZ/SK", Prima COOL (CZE)
@@ -613,14 +519,10 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6128.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25394.ts
 #EXTINF:-1 tvg-id="Relax.cz" tvg-name="Relax.cz" tvg-logo="" group-title="CZ/SK", Relax (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6127.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/6312323647.png" group-title="CZ/SK", Relax HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26008.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Retro (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6129.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Retro Music (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6315.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/3616449623.png" group-title="CZ/SK", Retro Music HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26009.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Rik (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6155.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Romana (SLK)
@@ -631,8 +533,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/7692.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/27760.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", SLAGER MUZIKA (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7846.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", SLAGER PREMIUM (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/24710.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", SLO1 HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6603.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", SLO2 HD (SLK)
@@ -643,32 +543,18 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/25402.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25398.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV1HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6591.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV1SD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6592.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV24HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6593.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV24SD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6594.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV2HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6595.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV2SD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6596.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV3HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6597.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", STV4HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6598.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", SUPER YACTH (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/27759.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Senzi (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8369.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://www.pcdays.cz/wp-content/uploads/2016/10/senzi.png" group-title="CZ/SK", Senzi HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26010.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Severka (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6579.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Seznam.cz (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6050.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Skylink 7 (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7847.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Skylink 7 HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8370.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Slager Original (CZE)
@@ -701,24 +587,18 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6320.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6119.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Stingray C Music (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8372.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/1593236153.png" group-title="CZ/SK", Stingray C Music HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26013.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Stingray CMusic (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7848.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TA3 (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6161.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TA3 HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6599.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TELEVÍZIA LUX (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7684.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TLC (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25411.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TLC HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6321.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TREBISOSOV (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/27758.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TURBO (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/24711.ts
 #EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TVBarrandov.cz" tvg-logo="" group-title="CZ/SK", TV Barrandov (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6082.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV Barrandov HD (CZE)
@@ -747,8 +627,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6165.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7849.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV Nové Zámky (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8375.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/7896455917.png" group-title="CZ/SK", TV Nové Zámky HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26015.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV PAPRIKA (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/24709.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV PIANKO (SLK)
@@ -767,46 +645,30 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/8378.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25389.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV5MONDE (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6160.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV7 (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6580.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV8 (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7670.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TV9 (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/25391.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TVLIFEHD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6581.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TVR (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7677.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", TVS (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6176.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/1692474469.png" group-title="CZ/SK", Televízia OSEM HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26014.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Televízia Osem (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8373.ts
 #EXTINF:-1 tvg-id="TravelChannel.cz" tvg-name="TravelChannel.cz" tvg-logo="" group-title="CZ/SK", Travel Channel (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6101.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Travel Channel HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6322.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Travel XP (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6096.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Travel XP HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7824.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Trojka (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6061.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Trojka HD (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7673.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Tv Popard (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7667.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", UP HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6323.ts
-#EXTINF:-1 tvg-id="UPNetwork.cz" tvg-name="UPNetwork.cz" tvg-logo="" group-title="CZ/SK", UP NETWORK (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6324.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Ukraina 24 (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6190.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", V1 (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6177.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Vega (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6582.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Viasat Explore (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6105.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/chimg/4897553648.png" group-title="CZ/SK", Viasat Explore HD (CZE)
@@ -817,22 +679,14 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6104.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6325.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Viasat Nature (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6106.ts
-#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="ViasatNature.cz" tvg-logo="" group-title="CZ/SK", Viasat Nature HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7839.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Východočeská (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8380.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/3d28ea31c26de51e191b87dc7de6c8e3.png" group-title="CZ/SK", Východočeská HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26017.ts
 #EXTINF:-1 tvg-id="Wau.sk" tvg-name="Wau.sk" tvg-logo="" group-title="CZ/SK", WAU (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8381.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", WAU (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6584.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://www.pcdays.cz/wp-content/uploads/2016/08/Wau-logo.png" group-title="CZ/SK", WAU HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26018.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", WAU HD (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6583.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ZSTV (SLK)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/6585.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", duck (SLK)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/7691.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", iConcert (CZE)
@@ -843,14 +697,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/8349.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6178.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", seznam.cz HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6326.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCKO (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7836.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCKO Black (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/25409.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCKO EXPRES (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7835.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCKO STAR LIVE (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/7834.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCko BLACK HD (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/6126.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", ÓCko EXPRES HD (CZE)
@@ -863,10 +709,6 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6124.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8384.ts
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="OckoExpres.cz" tvg-logo="" group-title="CZ/SK", Óčko Expres (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8382.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/55f2eba074fac7bc0ab8ff62a3608e67.png" group-title="CZ/SK", Óčko HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26004.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/4e367ab742155cf200fda1bdd19acc9f.png" group-title="CZ/SK", Óčko STAR HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26006.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Óčko Star (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8383.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Šláger Muzika (CZE)
@@ -877,5 +719,3 @@ http://tv.share1.pw/live/xu19bj7/xp1ncvy/6138.ts
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8386.ts
 #EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="" group-title="CZ/SK", Šlágr 2 (CZE)
 http://tv.share1.pw/live/xu19bj7/xp1ncvy/8385.ts
-#EXTINF:-1 tvg-id="none" tvg-name="none" tvg-logo="http://stream.geoiptv.live/channels_icon_api/1ecca10c41bb5f0fe220a15a601c70eb.png" group-title="CZ/SK", Šlágr 2 HD (CZE)
-http://tv.share1.pw/live/xu19bj7/xp1ncvy/26011.ts
